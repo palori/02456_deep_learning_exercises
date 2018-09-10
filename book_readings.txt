@@ -1,0 +1,14 @@
+#################
+# Book readings #
+#################
+
+Title: Neural Networks and Deep Learning
+Link: http://neuralnetworksanddeeplearning.com/
+
+
+# Chapter 1:
+	stopped at section: Implementing our network to classify digits
+	sentence: net = Network([2, 3, 1])
+	but retaken section: Toward deep learning (finished)
+
+# Chapter 2:
